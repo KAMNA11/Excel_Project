@@ -19,19 +19,17 @@ To analyse the data Excel Formula and Pivot Table was used.
 # 4 Data Visualisation 
 # Salary Spread 
 
-
+![Screenshot (59)](https://github.com/KAMNA11/Excel_Project/assets/136696822/51fa93c8-02d2-4048-870e-e8da5480e227)
 
 
 # Realtionship between salary & rating
 
-
-
+![Screenshot (60)](https://github.com/KAMNA11/Excel_Project/assets/136696822/4bf8cc61-4be7-414a-a61a-3de6bcf9a728)
 
 
 # Compnay growth over time
 
-
-
+![Screenshot (61)](https://github.com/KAMNA11/Excel_Project/assets/136696822/7aa7090a-2ed6-473e-bacd-4c96e5703841)
 
 
 # Regional Report for Comparison 
