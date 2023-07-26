@@ -17,9 +17,18 @@ This step is performed using Power Query in Excel for combining both data tables
 To analyse the data Excel Formula and Pivot Table was used.
 
 # 4 Data Visualisation 
-Salary Spread 
-Realtionship between salary & rating
-Compnay growth over time
+# Salary Spread 
+
+
+
+
+# Realtionship between salary & rating
+
+
+
+
+
+# Compnay growth over time
 
 
 
